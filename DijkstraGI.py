@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
+    # -*- coding: utf-8 -*-
 """
-Created on Sat Jun 6 04:25:06 2024
+Created on Thurs Jun 6 04:25:06 2024
 
 @author: Jesus Alejandro Montes Aguila 
 """
